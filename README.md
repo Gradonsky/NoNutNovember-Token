@@ -39,13 +39,13 @@ but also a real long-term project with plans to revolutionize the adult film ind
 ```
 👉 As you probably noticed \_name_ stand for name of your Token, \_symbol is your Token symbol and \_decimals are the digits after the decimal point (9 in our case)
 
-👉 \_taxFee - how much % of the transaction will be redistributed to the holders of your currency.
+👉 \_taxFee - how much % of the transaction will be redistributed to the holders of your currency. 💸
 
-👉 \_liquidityFee - how much % of the transaction will be send back to the Liquidity Pool.
+👉 \_liquidityFee - how much % of the transaction will be send back to the Liquidity Pool. 🎱
 
 👉 \_maxTxAmount - is the maximum tansaction amount. 10\*\*6  indicates 10^6 ( in our case it will be 1 000 000 000). \* 10\*\*9 indicates the digits after the decimal point.
 
-👉 numTokensSellToAddToLiquidity - when does the Tax/Liquidity fee trigger (in our case 1000 + 9 digits after decimal point).
+👉 numTokensSellToAddToLiquidity - when does the Tax/Liquidity fee trigger (in our case 1000 + 9 digits after decimal point). 🔫
 
 
 
